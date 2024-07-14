@@ -47,7 +47,6 @@ public class Program {
 				System.out.println(vectName[i]);	
 			}
 		}
-		
 		sc.close();
 	}
 
